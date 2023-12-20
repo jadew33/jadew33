@@ -23,16 +23,6 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jadew33&layout=compact&theme=tokyonight&langs_count=8&include_all_commits=true&count_private=true&hide_border=true)
-
-
-	
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jadew33&layout=compact&theme=tokyonight&langs_count=8&include_all_commits=true&count_private=true&hide_border=false)
 </a>
 </div>
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadew33&layout=compact&theme=tokyonight&langs_count=8&include_all_commits=true&count_private=true&hide_border=true" />
-</a>
