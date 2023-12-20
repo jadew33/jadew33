@@ -21,18 +21,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">My Statistics:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadew33&layout=donut&theme=algolia&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div aligh="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadew33&layout=compact&theme=tokyonight&langs_count=8)
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadew33&layout=compact&theme=tokyonight&langs_count=8)
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-</td>
-<td width="50%" align="center">
-
-  
-  </td>
-</tr>
-</table>
