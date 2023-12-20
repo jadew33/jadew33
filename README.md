@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jadew33&layout=compact&theme=tokyonight&langs_count=8&include_all_commits=true&count_private=true&hide_border=false)
 </a>
 </div>
+
+
