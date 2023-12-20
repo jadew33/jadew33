@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <h3 align="center">My Statistics:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadew33&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadew33&layout=compact)
 <p align="center">
 <table align="center">
