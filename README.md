@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jadew33&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jadew33&theme=dark&hide_border=false" /> 
