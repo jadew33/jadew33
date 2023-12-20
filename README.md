@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">My Statistics:</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadew33&layout=compact&theme=tokyonight&langs_count=8" />
 </a>
