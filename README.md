@@ -1,3 +1,5 @@
+![Github Banner](https://github.com/jadew33/jadew33/blob/main/banner.png)
+
 ### Hi there 👋
 
 <!--
