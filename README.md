@@ -1,7 +1,7 @@
 ![Github Banner](https://github.com/jadew33/jadew33/blob/main/banner.png)
 
 <div align="center">
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
 
 </div>
