@@ -1,9 +1,10 @@
 ![Github Banner](https://github.com/jadew33/jadew33/blob/main/banner.png)
 
+<div align="center">
 ### Hi there 👋
 
 
-
+</div>
 
 <!--
 **jadew33/jadew33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">My Statistics:</h3>
+<h3 align="center">Most Used Languages:</h3>
 <br>
 
 <div align="center">
